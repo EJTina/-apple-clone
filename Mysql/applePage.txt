@@ -1,0 +1,9 @@
+
+//  prepare the queries to create all the tables
+ 
+// create products table
+// products
+// product_id (PK)  product-url  product-name
+ 
+// Create the query
+
